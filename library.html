@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library</title>
+</head>
+<body>
+
+<script>
+
+    var numOfBooks = window.prompt("Enter the amount books that are late:")
+    var daysLateBooks = window.prompt("Enter the amount of days late:")
+    var numOfDVDs = window.prompt("Enter the amount of DVDS that are late:")
+    var daysLateDVDs = window.prompt("Enter the amount of days late:")
+
+    var booksTotal = (numOfBooks * daysLateBooks) * 0.25;
+    var DVDsTotal = (numOfDVDs * daysLateDVDs) * 0.50;
+
+    var grandTotal = booksTotal + DVDsTotal;
+
+    window.alert("Your total is: " + grandTotal + "$.");
+
+</script>
+
+</body>
+</html>
