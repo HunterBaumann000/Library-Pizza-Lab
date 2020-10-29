@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94436eea-93c3-4b75-b656-51cdc92a3e04" name="Default Changelist" comment="" />
+    <list default="true" id="94436eea-93c3-4b75-b656-51cdc92a3e04" name="Default Changelist" comment="Updated to use JQuery">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1jR16Kba6mT9yueuCELf0anGEIz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +36,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,17 +48,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603751913970</updated>
-      <workItem from="1603751915005" duration="6574000" />
+      <workItem from="1603751915005" duration="9386000" />
+      <workItem from="1603939978751" duration="7204000" />
     </task>
+    <task id="LOCAL-00001" summary="10/26">
+      <created>1603759923304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603759923304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10/26" />
+    <MESSAGE value="Updated to with JQuery" />
+    <MESSAGE value="Updated to use JQuery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to use JQuery" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="715" y="344" key="#Notifications" timestamp="1603950455681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603950455681" />
     <state x="218" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603759600757">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="218" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603759600757" />
+    <state x="513" y="370" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1603759770822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="370" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603759770822" />
+    <state x="1179" y="289" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1603946551548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1179" y="289" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1040@0.0.1920.1040" timestamp="1603946551548" />
+    <state x="544" y="275" key="FileChooserDialogImpl" timestamp="1603761517494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603761517494" />
+    <state x="737" y="222" key="RollbackChangesDialog" timestamp="1603950459549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603950459549" />
+    <state x="569" y="181" key="SettingsEditor" timestamp="1603946554948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="181" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603946554948" />
+    <state x="356" y="267" key="Vcs.Push.Dialog.v2" timestamp="1603762542707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="356" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603762542707" />
+    <state x="752" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1603946470923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603946470923" />
   </component>
 </project>
